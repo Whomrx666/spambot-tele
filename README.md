@@ -29,7 +29,7 @@ $ python3 spambot-tele.py
 
 ## Features
 
-- Spamming bots to the criminals' telegram.
+- Spamming bots to the criminals telegram.
 - The file can be filled with anything you want for spam.
 - Do real time spam telegram bot.
 - Simple design and easy to use.
