@@ -25,7 +25,7 @@ $ python3 spambot-tele.py
 
 # The result of spam
 
-<img src="https://github.com/Whomrx666/Xview-v2/blob/main/result-spambot.jpg">
+<img src="https://github.com/Whomrx666/spambot-tele/blob/main/result-spambot.jpg">
 
 ## Features
 
